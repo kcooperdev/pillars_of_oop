@@ -12,7 +12,7 @@ This is a project is for beginners or developers looking for a refresher to unde
 
 ### Motivation:
 
-I am a self taught developer myself, with no background of computer science. I strongly believe these concepts are vital to do well as a software engineer to have a successful career. It also allows you, as a engineer to focus on writing clean and maintain code that is easier to debug and refactor. 
+I am a self taught developer myself, with no background of computer science. I strongly believe these concepts are vital to do well as a software engineer to have a successful career. It also allows you, as a engineer to focus on writing clean and maintainable code that is easier to debug and refactor. 
 
 
 
