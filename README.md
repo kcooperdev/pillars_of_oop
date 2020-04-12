@@ -23,3 +23,6 @@ I am a self taught developer myself, with no background of computer science. I s
 
 **Inheritance** - can be use to inherit or receive the features or methods from an existing class. When using inheritance, the class that is receiving features of an existing class is called a subclass and the class that is being inherited is called a super class, which is just the parent class. The difference between inheritance and polymorphism is, polymorphism is determined at runtime, so the methods that are being extending or use in another class, at runtime, it is being invoked. Polymorphism can also change the behavior of the parent class. However, inheritance does not change the behavior of the super class, it inherits or receives the methods instead.
 An real world example of inherits would be a old phone and new phone, a new phone inheritance the functionality of an old phone which includes phone calling, messaging, volume buttons, screen display, etc...
+
+
+I also an article version of this here: https://dev.to/kcooperdev
