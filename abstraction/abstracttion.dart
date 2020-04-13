@@ -1,9 +1,9 @@
 // Example 1
 
-// abstract class Author{
-//       void books(){}
-//       void awards(){}
-// }
+abstract class Author{
+      void books(){}
+      void awards(){}
+}
 
 
 //Example 2  - The non-abstract class 'JKRowling' is missing implementations for 
