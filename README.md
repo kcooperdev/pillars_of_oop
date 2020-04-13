@@ -1,6 +1,6 @@
 # Pillars of OOP
 
-This project is for beginners or developers looking for a refresher to understand the four main pillars of Object Oriented Programming. In this tutorial, I will explain what they are, how they are used, best use cases, and a couple implementations in a couple languages. I also an article version of this here: https://dev.to/kcooperdev .
+This project is for beginners or developers looking for a refresher to understand the four main pillars of Object Oriented Programming. In this tutorial, I will explain what they are, how they are used, and best use cases. I also an article version of this here: https://dev.to/kcooperdev .
 
 
 ### What They Are:
